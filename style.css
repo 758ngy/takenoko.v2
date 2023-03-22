@@ -1,0 +1,20 @@
+header{background-color: pink;text-align:center;}
+main{background-color: pink;}
+#hero img{width: 100%;}
+#hero{text-align: center;}
+header{padding: 50px;}
+#hero{padding: 20px;}
+main{text-align: center;}
+header{color: black;}
+main{font-size: xx-large}
+header{font-size: xx-large;}
+aside{font-size: xx-large;}
+main img{width: 50%;}
+.VDO{display: flex;justify-content: space-around;}
+body {background-color: rgb(134, 0, 83);}
+aside{background-color: pink;}
+aside{font-size: x-large;}
+aside{text-align: center;}
+.form{display: flex;justify-content: space-around;}
+.stmi{display: flex;justify-content: space-around;}
+input[type="submit"]{font-size: x-large;}
